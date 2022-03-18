@@ -1,1 +1,1 @@
-Just a place for me to upload and keep track of my successful LeetCode submissions.
+Just a repo for me to keep track of my leetcode solutions organized by language and difficulty
